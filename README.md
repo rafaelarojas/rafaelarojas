@@ -27,4 +27,4 @@
 
 ##
     
-
+![snake gif](https://github.com/rafaelarojas/rafaelarojas/blob/output/github-contribution-grid-snake.svg)
