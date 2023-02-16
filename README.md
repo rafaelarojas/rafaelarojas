@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Rafaela Rojas 🎀
 
-<br/>
+##
 
 <div>
   <a href="https://github.com/rafaelarojas">
@@ -13,10 +13,10 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-gif" src="https://discord.com/channels/1057797408244912198/1057797408244912201/1075579767010631700/hi.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/1057797408244912198/1057797408244912201/1075579767010631700">
 </div>
 
-<br/>
+##
 
 <div> 
   <a href = "mailto:rafaelacrisr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
