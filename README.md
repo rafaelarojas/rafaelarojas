@@ -1,5 +1,8 @@
-## Olá! Eu sou a Rafaela Rojas 🎀
-#### Seja bem vindo(a)! 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Rafaela+Rojas+🎀+💻;Seja+bem+vindo(a)!;Sou+estudante+de+Engenharia+de+Software;)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rafaelarojas&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 👩‍💻 Estudante de Engenharia de Software no [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)
 
